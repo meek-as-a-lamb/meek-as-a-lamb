@@ -1,11 +1,9 @@
-### Hi there 👋 I am an artist from Seoul. I make sounds and movements 🧚‍♀️
+<hi> Hi there 👋 I am an artist from Seoul. I make sounds and movements 🧚‍♀️ </h1>
 
-<h2> my interests are </h2>
-https://img.shields.io/static/v1?label=<LABEL>&message=<feminism>&color=<ff69b4>
-! [sound]
-! [diy]
-! [media]
-! [noise]
+my interests are 
+</em>
+   <img src="https://img.shields.io/badge/-feminism-ff69b4"/>,<img src="https://img.shields.io/badge/-sound-blueviolet"/>,<img src="https://img.shields.io/badge/-noise-lightgrey"/>, <img src="https://img.shields.io/badge/-movement-orange"/>, <img src="https://img.shields.io/badge/-abjection-green"/> and <img src="https://img.shields.io/badge/-shamanism-blue"/>
+
 
 
 
