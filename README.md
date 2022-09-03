@@ -1,4 +1,13 @@
-### Hi there 👋 I am an Artist into Sounds, Movements and Computer things! 
+### Hi there 👋 I am an artist from Seoul. I make sounds and movements 🧚‍♀️
+
+<h2> my interests are </h2>
+https://img.shields.io/static/v1?label=<LABEL>&message=<feminism>&color=<ff69b4>
+! [sound]
+! [diy]
+! [media]
+! [noise]
+
+
 
 <!--
 **meek-as-a-lamb/meek-as-a-lamb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
