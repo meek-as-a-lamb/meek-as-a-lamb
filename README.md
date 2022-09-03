@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am an Artist into Sounds, Movements and Computer things! 
 
 <!--
 **meek-as-a-lamb/meek-as-a-lamb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
