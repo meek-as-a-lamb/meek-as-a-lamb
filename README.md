@@ -2,7 +2,7 @@
 
 my interests are 
 </em>
-   <img src="https://img.shields.io/badge/-feminism-ff69b4"/>,<img src="https://img.shields.io/badge/-sound-blueviolet"/>,<img src="https://img.shields.io/badge/-noise-lightgrey"/>, <img src="https://img.shields.io/badge/-movement-orange"/>, and <img src="https://img.shields.io/badge/-spirit-blue"/>
+   <img src="https://img.shields.io/badge/-feminism-ff69b4"/>,<img src="https://img.shields.io/badge/-sound-blueviolet"/>,<img src="https://img.shields.io/badge/-noise-lightgrey"/>, <img src="https://img.shields.io/badge/-movement-orange"/>, and <img src="https://img.shields.io/badge/-spirits-blue"/>
 
 
 
