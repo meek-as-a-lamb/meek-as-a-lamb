@@ -1,7 +1,5 @@
-<hi> Hi there 👋 I am an artist from Seoul. I make sounds and movements 🧚‍♀️ </h1>
-
-</em>
-   <img src="https://img.shields.io/badge/-feminism-ff69b4"/><img src="https://img.shields.io/badge/-sound-blueviolet"/><img src="https://img.shields.io/badge/-noise-lightgrey"/><img src="https://img.shields.io/badge/-movement-orange"/><img src="https://img.shields.io/badge/-spirits-blue"/>
+<hi> Hi there 👋 I am an artist from Seoul. I do <img src="https://img.shields.io/badge/-sound-blueviolet"/> and <img src="https://img.shields.io/badge/-noise-lightgrey"/> 🧚‍♀️
+   and make things.....
 
 
 
