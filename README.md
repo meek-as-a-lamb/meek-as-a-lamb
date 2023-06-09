@@ -1,5 +1,7 @@
 <hi> Hi there 👋 I am an artist from Seoul. I do <img src="https://img.shields.io/badge/-sound-blueviolet"/> and <img src="https://img.shields.io/badge/-noise-lightgrey"/> 🧚‍♀️
    and make things.....
+    
+   ~희주는 소리에 관심이 있습니다. 음악도 좋아합니다. 하지만 어쩐지 너무 음악적인 음악은 취향이 아니고 불안정하거나, 정보가 너무 적거나 많은 소리, 혹은 우연으로 이루어진 음악을 좋아합니다. 그래서 그런 소리 만들기를 좋아해요. 기계나 프로그램들과 친한 편은 아니어서 작업을 할 때 실패, 실망, 좌절을 자주 만남에도 불구하고 새로운 방법, 도구 사용하기를 즐깁니다. 자주 서성이는 편이라 많은 것에 미숙하지만 용기로 마주하고 있습니다.~
 
 
 
